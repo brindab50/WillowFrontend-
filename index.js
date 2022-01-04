@@ -22,25 +22,7 @@
 // javascript code uses Fetch and has the apporiate HTTP verb // done
 
 
-// add a patch request 
-// add delete button on home 
-// show number of offers on the home 
-// when make a offer button is submitted 
-// create a patch request to create a offer in the backend 
-// in the front end create a button that shows the offer id that matches the home id 
 
-
-
-// function makeOffer(event){
-// fetch()
-// let homeOffer = document.createElement("div")
-// let offer = allOffers.filter(offer => offer.home.id === home.id) 
-
-// } 
-
-// create a post request that creates a offer for the home in the backend 
-// offer should have price home id and user id and successfully be created in the backend 
-// 
 
 
 let makeOffer = false
